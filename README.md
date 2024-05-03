@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 #### Stats
 
-- ⚡ Fun fact: ArchLinux, Android geek, Android kernel building, CLI tools ...
+- ⚡ **Fun fact:** ArchLinux, Android geek, Android kernel building, CLI tools ...
 
-- 🔭 I’m currently working on: riscv kernel based on rust
+- 🔭 **I’m currently working on:** Riscv kernel based on rust
 
-- 🌱 I’m currently learning: rust
+- 🌱 **I’m currently learning:** Rust
 
 ****
 
