@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+#### Reach Me
+
 - 🩵 **Blog:** [blog.shettyyttehs.org](https://blog.shettyyttehs.org)
 
 - 📫 **Email:** shetty.yttehs@outlook.com
@@ -22,7 +24,19 @@ Here are some ideas to get you started:
 - 💬 **Talk:** [Yttehs@Coolapk](https://www.coolapk.com/u/3390167)
 
 ****
-[![Ytthes's github stats](https://github-readme-stats.vercel.app/api?username=Yttehs-HDX&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Stats
+
+- ⚡ Fun fact: ArchLinux, Android geek, Android kernel building, CLI tools ...
+
+- 🔭 I’m currently working on: riscv kernel based on rust
+
+- 🌱 I’m currently learning: rust
 
 ****
+
+#### Github
+
+[![Ytthes's github stats](https://github-readme-stats.vercel.app/api?username=Yttehs-HDX&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yttehs-HDX)](https://github.com/anuraghazra/github-readme-stats)
