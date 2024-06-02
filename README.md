@@ -19,23 +19,25 @@ Here are some ideas to get you started:
 
 - 🩵 **Blog:** [blog.shettyyttehs.org](https://blog.shettyyttehs.org)
 
+- 🎁 **Gists:** [Yttehs@GitHubGist](https://gist.github.com/Yttehs-HDX)
+
 - 📫 **Email:** shetty.yttehs@outlook.com
 
 - 💬 **Talk:** [Yttehs@Coolapk](https://www.coolapk.com/u/3390167)
 
-****
+---
 
 #### Stats
 
-- ⚡ **Fun fact:** ArchLinux, Android geek, Android kernel building, CLI tools ...
+- ⚡ **Fun fact:** Arch Linux, Android Geek, Android Kernel Building, CLI Tools ...
 
-- 🔭 **I’m currently working on:** Riscv kernel based on rust
+- 🔭 **I’m currently working on:** RISC-V Kernel Based on Rust
 
 - 🌱 **I’m currently learning:** Rust
 
-****
+---
 
 #### Github
 
-| [![Ytthes's github stats](https://github-readme-stats.vercel.app/api?username=Yttehs-HDX&count_private=true)](https://github.com/anuraghazra/github-readme-stats) | [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yttehs-HDX)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yttehs-HDX)](https://github.com/anuraghazra/github-readme-stats) | [![Ytthes's github stats](https://github-readme-stats.vercel.app/api?username=Yttehs-HDX&count_private=true)](https://github.com/anuraghazra/github-readme-stats) |
 |-|-|
