@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 🔭 **I’m currently working on:** RISC-V Kernel Based on Rust
 
-- 🌱 **I’m currently learning:** Fundamental of Compiling
+- 🌱 **I’m currently learning:** Compiler Design
 
 ---
 
