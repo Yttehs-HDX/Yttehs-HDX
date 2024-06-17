@@ -39,5 +39,8 @@ Here are some ideas to get you started:
 
 #### Github
 
-| [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yttehs-HDX)](https://github.com/anuraghazra/github-readme-stats) | [![Ytthes's github stats](https://github-readme-stats.vercel.app/api?username=Yttehs-HDX&count_private=true)](https://github.com/anuraghazra/github-readme-stats) |
-|-|-|
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yttehs-HDX&layout=donut&theme=dracula)
+
+![Github Status](https://github-readme-stats.vercel.app/api?username=Yttehs-HDX&show_icons=true&theme=dracula)
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yttehs&theme=dracula)
