@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-#### Github
+#### Activity
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yttehs-HDX&layout=donut&theme=dracula)
 
