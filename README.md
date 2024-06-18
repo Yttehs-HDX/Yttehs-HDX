@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=Yttehs-HDX&show_icons=true&theme=dracula)
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=f75034f6-13d0-4a98-91c1-6d8510ffccb6&theme=dracula)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=f75034f6-13d0-4a98-91c1-6d8510ffccb6&theme=dracula)](https://wakatime.com/@Yttehs)
