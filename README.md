@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 #### Activity
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yttehs-HDX&layout=donut&theme=dracula)](https://github.com/Yttehs-HDX?tab=repositories)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yttehs-HDX&layout=donut&theme=nord)](https://github.com/Yttehs-HDX?tab=repositories)
 
-[![Github Status](https://github-readme-stats.vercel.app/api?username=Yttehs-HDX&show_icons=true&theme=dracula)](https://github.com/Yttehs-HDX?tab=repositories)
+[![Github Status](https://github-readme-stats.vercel.app/api?username=Yttehs-HDX&show_icons=true&theme=nord)](https://github.com/Yttehs-HDX?tab=repositories)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=f75034f6-13d0-4a98-91c1-6d8510ffccb6&theme=dracula)](https://wakatime.com/@Yttehs)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=f75034f6-13d0-4a98-91c1-6d8510ffccb6&theme=nord)](https://wakatime.com/@Yttehs)
