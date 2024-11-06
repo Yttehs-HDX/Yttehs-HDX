@@ -28,36 +28,37 @@
 
 #### Activities
 
-<table>
-  <tr>
-    <td>
-      <!-- Most Used Languages -->
-      <a href="https://github.com/Yttehs-HDX?tab=repositories" >
-        <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yttehs-HDX&layout=donut&theme=dracula"
-          align="center"
-          width="500" >
-        </img>
-      </a>
+<table style="border: none">
+  <tr style="border: none">
+    <td style="border: none">
       <!-- Github Status -->
-      <a href="https://github.com/Yttehs-HDX?tab=repositories" >
+      <a href="https://github.com/Yttehs-HDX?tab=repositories">
         <img
           src="https://github-readme-stats.vercel.app/api?username=Yttehs-HDX&show_icons=true&theme=dracula"
-          align="center"
-          width="500" >
-        </img>
+          align="top"
+          width="500" />
+      </a>
+      <br
+        align="top"
+        width="500" />
+      </br>
+      <!-- Most Used Languages -->
+      <a href="https://github.com/Yttehs-HDX?tab=repositories">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yttehs-HDX&layout=donut&theme=dracula"
+          align="top"
+          width="500" />
       </a>
     </td>
-      <td>
-        <!-- Wakatime Status -->
-        <a href="https://github.com/Yttehs-HDX?tab=repositories" >
-          <img
-            src="https://github-readme-stats.vercel.app/api/wakatime?username=f75034f6-13d0-4a98-91c1-6d8510ffccb6&theme=dracula"
-            align="center"
-            width="1000" >
-          </img>
-        </a>
-      </td>
+    <td style="border: none">
+      <!-- Wakatime Status -->
+      <a href="https://github.com/Yttehs-HDX?tab=repositories">
+        <img
+          src="https://github-readme-stats.vercel.app/api/wakatime?username=f75034f6-13d0-4a98-91c1-6d8510ffccb6&theme=dracula"
+          align="center"
+          width="500" />
+      </a>
+    </td>
   </tr>
 </table>
 
