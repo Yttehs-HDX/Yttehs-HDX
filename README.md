@@ -52,7 +52,7 @@
     </td>
     <td style="border: none">
       <!-- Wakatime Status -->
-      <a href="https://github.com/Yttehs-HDX?tab=repositories">
+      <a href="https://wakatime.com/@Yttehs">
         <img
           src="https://github-readme-stats.vercel.app/api/wakatime?username=f75034f6-13d0-4a98-91c1-6d8510ffccb6&theme=dracula"
           align="center"
