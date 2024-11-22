@@ -24,6 +24,8 @@
 
 - 🌱 **I’m currently learning:** Operating System
 
+- 🆘 **I'm looking for:** Groups for Technological Chat and Share Ideas
+
 ---
 
 #### Activities
