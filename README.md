@@ -8,7 +8,7 @@
 
 - 🩵 **Blog:** [blog.shettyyttehs.org](https://blog.shettyyttehs.org)
 
-- 🎁 **Gists:** [Yttehs@GitHubGist](https://gist.github.com/Yttehs-HDX)
+- 🎁 **Gists:** [Yttehs-HDX@GitHubGist](https://gist.github.com/Yttehs-HDX)
 
 - 📫 **Email:** shetty.yttehs@outlook.com
 
