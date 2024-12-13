@@ -20,7 +20,7 @@
 
 - ⚡ **Fun fact:** Arch Linux, Android Geek, Android Kernel Building, CLI Tools ...
 
-- 🔭 **I’m currently working on:** RISC-V Kernel Based on Rust
+- 🔭 **I’m currently working on:** Kotlin Multiplatform
 
 - 🌱 **I’m currently learning:** Operating System
 
