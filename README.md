@@ -67,7 +67,7 @@
 
 - 🎁 **Gists:** [Yttehs-HDX@GitHubGist](https://gist.github.com/Yttehs-HDX)
 
-- 📫 **Email:** shetty.yttehs@outlook.com
+- 📫 **Email:** shetty@shettydev.com
 
 - 💬 **Talk:** [Yttehs@Coolapk](https://www.coolapk.com/u/3390167)
 
