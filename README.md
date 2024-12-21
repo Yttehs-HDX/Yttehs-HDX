@@ -63,7 +63,7 @@
 </a>  
 </div>  
   
-- 🩵 **Blog:** [blog.shettyyttehs.org](https://blog.shettyyttehs.org)
+- 🩵 **Blog:** [blog.shettydev.com](https://blog.shettydev.com)
 
 - 🎁 **Gists:** [Yttehs-HDX@GitHubGist](https://gist.github.com/Yttehs-HDX)
 
