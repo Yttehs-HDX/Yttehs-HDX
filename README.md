@@ -75,7 +75,7 @@
 
 - 📫 **Email:** shetty@shettydev.com
 
-- 💬 **Talk:** [Yttehs@Coolapk](https://www.coolapk.com/u/3390167)
+- 💬 **Talk:** [Shetty_Yttehs@Coolapk](https://www.coolapk.com/u/3390167)
 
 <br/>  
 
