@@ -2,7 +2,7 @@
 
 - ⚡ **Fun fact**: Arch Linux, Android Geek, Android Kernel Building, CLI Tools ...  
 
-- 🔭 **I’m currently working on**: [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html)  
+- 🔭 **I’m currently working on**: [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) and [React Native Expo](https://docs.expo.dev)  
 
 - 🌱 **I’m currently learning**: Computer Archbase  
   
