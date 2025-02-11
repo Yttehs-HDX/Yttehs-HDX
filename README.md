@@ -88,6 +88,7 @@
 </div>
   
 - 🩵 **Blog:** [blog.shettydev.com](https://blog.shettydev.com)
+- 🩷 **Resume**: [resume.shettydev.com](https://resume.shettydev.com)
 - 🎁 **Gists:** [Yttehs-HDX@GitHubGist](https://gist.github.com/Yttehs-HDX)
 - 📫 **Email:** shetty@shettydev.com
 - 💬 **Talk:** [Shetty_Yttehs@Coolapk](https://www.coolapk.com/u/3390167)
