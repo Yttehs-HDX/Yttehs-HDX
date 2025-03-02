@@ -109,7 +109,7 @@
 <!-- Github -->
 <a href="https://github.com/Yttehs-HDX?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=Yttehs-HDX&show_icons=true&count_private=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula" align="center" width="100%" /></a>
 <!-- Lang -->
-<a href="https://github.com/Yttehs-HDX?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yttehs-HDX&hide_border=true&layout=donut&layout=pie&theme=dracula" align="center" width="100%" /></a>
+<a href="https://github.com/Yttehs-HDX?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yttehs-HDX&hide_border=true&layout=pie&theme=dracula" align="center" width="100%" /></a>
 </div></td>
 
 <td width="50%"><div align="center" width="100">
