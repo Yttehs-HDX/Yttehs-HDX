@@ -2,7 +2,7 @@
 
 - ⚡ **Fun fact**: Arch Linux, Android Geek, Android Kernel Building, CLI Tools ...
 - 🔭 **I’m currently working on**: Full stack ( Front-end: [`Expo`](https://docs.expo.dev) with TypeScript, Back-end: [`axum`](https://github.com/tokio-rs/axum) with Rust )
-- 🌱 **I’m currently learning**: Software Engineering
+- 🌱 **I’m currently learning**: Software Engineering, Linux kernel
 - 🆘 **I'm looking for**: Groups for Technological Chat and Share Ideas
 
 ---
