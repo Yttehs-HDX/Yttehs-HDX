@@ -1,4 +1,4 @@
-### <div align="center">I'm Shetty Yttehs, an developer working on Compose Multiplatform and RISC-V.</div>
+### <div align="center">I'm Shetty Yttehs, a developer working on Compose Multiplatform and RISC-V.</div>
 
 - ⚡ **Fun fact**: Arch Linux, Android Geek, Android Kernel Building, CLI Tools ...
 - 🔭 **I’m currently working on**: Full stack ( Front-end: [`Expo`](https://docs.expo.dev) with TypeScript, Back-end: [`axum`](https://github.com/tokio-rs/axum) with Rust )
