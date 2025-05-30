@@ -2,8 +2,8 @@
 
 - ⚡ **Fun fact**: Arch Linux, Android Geek, Android Kernel Building, CLI Tools ...
 - 🔭 **I’m currently working on**: Full stack ( Front-end: [`Expo`](https://docs.expo.dev/) with TypeScript, Back-end: [`ASP.NET`](https://asp.net/) with C# )
-- 🌱 **I’m currently learning**: Software Engineering, Linux kernel
-- 🆘 **I'm looking for**: Groups for Technological Chat and Share Ideas
+- 🌱 **I’m currently learning**: Software Engineering, Linux Kernel, Rust Embedded ...
+- 🆘 **I'm looking for**: Groups for Technological Chat and Sharing Ideas
 
 ---
 
