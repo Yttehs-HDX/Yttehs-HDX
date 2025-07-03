@@ -103,12 +103,12 @@
 
 <table align="center"><tr width="100%">
 
-<td width="55%"><div align="center" width="100">
+<td width="50%"><div align="center" width="100">
 <!-- WakaTime -->
-<a href="https://wakatime.com/@Yttehs" target="_blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yttehs&hide_border=true&layout=compact&theme=dracula" /></a>
+<a href="https://wakatime.com/@Yttehs" target="_blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yttehs&hide_border=true&layout=compact&langs_count=70&theme=dracula" /></a>
 </div></td>
 
-<td width="45%"><div align="center" width="100%">
+<td width="50%"><div align="center" width="100%">
 <!-- Github -->
 <a href="https://github.com/Yttehs-HDX?tab=repositories" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=Yttehs-HDX&show_icons=true&count_private=true&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula" align="center" width="100%" /></a>
 <!-- Lang -->
