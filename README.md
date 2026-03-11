@@ -68,6 +68,7 @@
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![CLI Tools](https://img.shields.io/badge/CLI%20Tools-334155?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div></td>
 </tr></table>
