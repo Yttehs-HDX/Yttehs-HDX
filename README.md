@@ -83,6 +83,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yttehs-HDX)
 [![Gist](https://img.shields.io/badge/Gist-181717?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/Yttehs-HDX)
+[![Huggingface](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/shetty-yttehs)
 [![wakatime](https://wakatime.com/badge/user/f75034f6-13d0-4a98-91c1-6d8510ffccb6.svg?style=for-the-badge)](https://wakatime.com/@Yttehs)
 
 [![Blog](https://img.shields.io/badge/blog%2Eshettydev%2Ecom-B7BDF8?style=for-the-badge)](https://blog.shettydev.com/)
